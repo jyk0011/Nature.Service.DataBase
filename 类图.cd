@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Nature.Service.Data.GetData">
+    <Position X="3" Y="5.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIgAAAAAAAAAAABABAAAAAAAAAIA=</HashCode>
+      <FileName>Data\GetData.ashx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.Service.Data.PostData">
+    <Position X="6.5" Y="5.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\PostData.ashx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.Service.MetaData.GetMeta">
+    <Position X="9.5" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAIAAgAwAQAAAAAAKAAQCAAAEAAAAAAAQ=</HashCode>
+      <FileName>MetaData\GetMeta.ashx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.Service.BaseAshxMeta">
+    <Position X="5.75" Y="2.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAASAAIIgAAAAAIhAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseAshxMeta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.Service.Data.DataDelete">
+    <Position X="0.75" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQBAAAAAAAAACAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Data\DataDelete.ashx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.Service.Data.DataBaseConnInfo">
+    <Position X="1.25" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Data\GetData.ashx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.Service.MetaData.PostMeta">
+    <Position X="12" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MetaData\PostMeta.ashx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.Service.Ashx.BaseAshx">
+    <Position X="15.75" Y="2.75" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Nature.Service.Ashx.HandlerBase">
+    <Position X="19.25" Y="2" Width="2.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>

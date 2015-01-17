@@ -1,0 +1,14 @@
+﻿<div id="PageTurn" class="pager" >
+    <span >共<font  id="P_RecordCount" style="color:Red;"></font>条记录</span>
+    <span >第<font id="P_Index" style="color:Red;"></font>/<font id="P_PageCount" style="color:Red;"></font>页</span>
+    <span >每页<font id="P_PageSize" style="color:Red;"></font>条记录</span>
+    <span id="S_navi"><!--页号导航--></span>
+    <span id="S_First" onclick="Nature.Page.QuickPager.BindGrid(1)" class="disabled" >首页</span>
+    <span id="S_Prev" onclick="Nature.Page.QuickPager.BindGrid(-1)" class="disabled" >上一页</span>
+    <!--页号导航也可以放在这里-->
+    <span id="S_Next" onclick="Nature.Page.QuickPager.BindGrid(-2)" class="disabled" >下一页</span>
+    <span id="S_Last" onclick="Nature.Page.QuickPager.BindGrid(-9)" class="disabled" >末页</span>
+    <input name="Txt_GO" type="text" id="Txt_GO" size="1" class="cssTxt" /> 
+     
+    <span id="P_GO" onclick="javascript:Nature.Page.QuickPager.BindGrid($('#Txt_GO').val())">GO</span>
+</div>

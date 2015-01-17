@@ -1,0 +1,51 @@
+﻿#div_Debug11{   
+    background-color:#fff ;   
+    /*background:url("img/formbk.gif");*/
+    border: 1px solid #99bbe8;   
+    padding:5px;
+    position:absolute;   
+    top:1000px;   
+    left:5px;   
+    width:200px;   
+    height:400px;
+    color: #15428b;
+    overflow: auto;
+     
+}   
+#divTab011 {
+    clear: both;
+}
+.cssDebug {
+    padding:5px;
+    border-bottom: 1px solid #eee;
+    clear: both;
+   
+}
+.layer_title{   
+    background-color:#d2eefd ;   
+    /*background:url("img/formbk.gif");*/
+    border: 1px solid #99bbe8;   
+    padding:5px;
+    position:absolute;   
+    
+    color: #15428b;
+    border: 2px #ccc solid;
+    box-shadow: 0 0 8px rgba(0,0,0,.6);
+}  
+ 
+#cssIfrmMod11{   
+    border: 1px solid #99bbe8;   
+   
+}   
+OL11 li {margin: 8px}
+#div_Main1 {font-size: 12px; margin: 0px auto; width: 600px;}
+#ulTab1 {padding: 0px; margin: 0px 0px 0px 10px;   height: 23px;}
+#ulTab1 li {background: url(img/tagleft.gif) no-repeat left bottom; float: left; margin-right: 1px; list-style-type: none; height: 23px;}
+#ulTab1 li a {padding:0 10px; background: url(img/tagright.gif) no-repeat right bottom; float: left; color: #999; line-height: 23px; height: 23px; text-decoration: none;}
+#ulTab1 li.emptyTag {background: none transparent scroll repeat 0% 0%; width: 4px;}
+#ulTab1 li.selectTag {background-position: left top; margin-bottom: -2px; position: relative; height: 25px;}
+#ulTab1 li.selectTag a {background-position: right top; color: #000; line-height: 25px; height: 25px;}
+#divIframe11 {BORDER: #aecbd4 1px solid; padding: 1px;background-color: #fff;}
+.tagContent11 {padding: 2px; display: none; background: url(img/bg.gif) repeat-x;  color: #474747; height: 450px;}
+#divIframe11 div.selectTag {display: block;}
+ 
