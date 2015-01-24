@@ -435,15 +435,15 @@
     <Content Include="MetaData\PostMeta.ashx" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\NatureFrameWork\Nature.Common\Nature.Common.csproj">
+    <ProjectReference Include="..\Nature.Common\Nature.Common.csproj">
       <Project>{55dc3025-75a9-441c-9d75-7652e46900f5}</Project>
       <Name>Nature.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\NatureFrameWork\Nature.DataAccessLibrary\Nature.DataAccessLibrary.csproj">
+    <ProjectReference Include="..\Nature.DataAccessLibrary\Nature.DataAccessLibrary.csproj">
       <Project>{75bc6e2b-b380-4cfb-baf2-ba7c568e1778}</Project>
       <Name>Nature.DataAccessLibrary</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\NatureFrameWork\Nature.MetaData\Nature.MetaData.csproj">
+    <ProjectReference Include="..\Nature.MetaData\Nature.MetaData.csproj">
       <Project>{98c10895-982d-4b38-a5c9-c0b2552ff3f7}</Project>
       <Name>Nature.MetaData</Name>
     </ProjectReference>
